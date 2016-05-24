@@ -4,6 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>flow.jump-to-def</string>
+	<key>isDisabled</key>
+	<true/>
 	<key>keyEquivalent</key>
 	<string>~@</string>
 	<key>name</key>

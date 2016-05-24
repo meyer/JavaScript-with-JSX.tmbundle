@@ -14,6 +14,8 @@ cat | flow type-at-pos "$TM_FILEPATH" $TM_LINE_NUMBER $TM_COLUMN_NUMBER | head -
 	<string>document</string>
 	<key>inputFormat</key>
 	<string>text</string>
+	<key>isDisabled</key>
+	<true/>
 	<key>name</key>
 	<string>Flow type</string>
 	<key>outputCaret</key>

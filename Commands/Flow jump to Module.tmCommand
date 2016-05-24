@@ -37,6 +37,8 @@ fi
 	<string>scope</string>
 	<key>inputFormat</key>
 	<string>text</string>
+	<key>isDisabled</key>
+	<true/>
 	<key>name</key>
 	<string>Flow jump to Module</string>
 	<key>outputCaret</key>

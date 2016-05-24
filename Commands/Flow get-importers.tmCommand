@@ -62,6 +62,8 @@ fi
 	<string>none</string>
 	<key>inputFormat</key>
 	<string>text</string>
+	<key>isDisabled</key>
+	<true/>
 	<key>keyEquivalent</key>
 	<string>~@</string>
 	<key>name</key>

@@ -21,6 +21,8 @@ React.render(
 
 &lt;/script&gt;
 </string>
+	<key>isDisabled</key>
+	<true/>
 	<key>name</key>
 	<string>React Boilerplate</string>
 	<key>scope</key>

@@ -12,6 +12,8 @@
 	<string>none</string>
 	<key>inputFormat</key>
 	<string>text</string>
+	<key>isDisabled</key>
+	<true/>
 	<key>name</key>
 	<string>Add Cursor location to History</string>
 	<key>outputCaret</key>
